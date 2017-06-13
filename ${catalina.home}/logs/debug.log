@@ -1,0 +1,8 @@
+2017-06-04 00:15:17,880 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-1] getDiskInfo mount_point = _media_Video 
+2017-06-04 00:15:17,891 ERROR c.o.m.d.DiskInfoController [http-nio-8080-exec-1] getDiskInfo Cannot run program "df": CreateProcess error=2, Не удается найти указанный файл 
+2017-06-04 00:16:09,820 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-1] getDiskInfo mount_point = _media_Video 
+2017-06-04 00:18:03,905 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-1] getDiskInfo sending info about mount_point = _media_Video 
+2017-06-04 00:18:10,767 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-3] getDiskInfo sending info about mount_point = _ 
+2017-06-04 00:18:16,875 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-6] getDiskInfo sending info about mount_point = _media_Video 
+2017-06-04 00:18:24,834 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-7] getDiskInfo sending info about mount_point = _media_Downloads 
+2017-06-04 00:35:11,046 DEBUG c.o.m.d.DiskInfoController [http-nio-8080-exec-2] getDiskInfo sending info about mount_point = _media_Video 

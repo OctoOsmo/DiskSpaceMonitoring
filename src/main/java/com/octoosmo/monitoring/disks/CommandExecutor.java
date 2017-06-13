@@ -4,9 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- * Created by al on 15.05.2017.
- */
 public class CommandExecutor {
 
     public static String getMockDiskFreeResult() throws IOException, InterruptedException {

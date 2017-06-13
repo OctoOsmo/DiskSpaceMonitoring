@@ -17,7 +17,8 @@ public class OutputParser {
                     .setAvailableSpace(iterator.next())
                     .setPercentOfUse(iterator.next())
                     .setMountPoint(iterator.next());
-            diskInfoMap.put(diskInfo.getMountPoint(), diskInfo);
+//            diskInfoMap.put(diskInfo.getMountPoint(), diskInfo);
+            diskInfoMap.put(diskInfo.getMountPoint().replace("/", "_"), diskInfo);
         }
         return diskInfoMap;
     }
